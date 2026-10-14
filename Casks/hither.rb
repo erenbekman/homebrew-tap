@@ -1,6 +1,6 @@
 cask "hither" do
-  version "0.1.1"
-  sha256 "669dbe78eda1ff4f46ab1be3aa5606106e12683344599f3079fb71a896804166"
+  version "0.1.2"
+  sha256 "84e31de8be64737ed736aa47467e275d539707b8988fcc719a0dc50b149fed1a"
 
   url "https://github.com/erenbekman/hither/releases/download/v#{version}/Hither_#{version}_aarch64.dmg"
   name "Hither"
